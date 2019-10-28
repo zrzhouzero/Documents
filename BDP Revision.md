@@ -96,7 +96,7 @@ Data flow language, procedural language, can handle structured, unstructured and
 
 ---
 
-###Week 4 Mahout, Solr, Storm, Maven
+### Week 4 Mahout, Solr, Storm, Maven
 
 **Mahout**
 primarily for scalable machine learning algorithms
@@ -273,7 +273,7 @@ Document Partitioning and Term Partitioning
 
 ---
 
-###Week 10 Processing Relational Data
+### Week 10 Processing Relational Data
 
 **"Value-to-key conversion" design pattern**: form composite intermediate key
 
